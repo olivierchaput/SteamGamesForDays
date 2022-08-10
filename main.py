@@ -1,6 +1,3 @@
-"""App that returns the title and href of games that are free for a limited time on steam"""
-
-
 from lxml import html
 import requests
 
